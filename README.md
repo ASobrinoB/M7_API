@@ -89,26 +89,20 @@ A continuación, se presenta una lista de requisitos mínimos y entregables que 
 
 Variables de entorno
 
-PORT=3001
-
-MONGODB_URI=mongodb+srv://admin:admin@cluster0.l5r7v.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-
-SECRET=UCAMP
+![Image](./images/env.png) 
 
 Rutas de Productos
 
-productRouter.get    ('/get-product',    getProductById);
-productRouter.get    ('/get-products',   getProducts);
-productRouter.post   ('/add-product',    addProduct);
-productRouter.put    ('/update-product', updateProductById);
-productRouter.delete ('/delete-product', deleteProductById);
+![Image](./images/productRouter.png) 
 
 Rutas de Usuarios
 
-userRouter.post   ('/login',        login);
-userRouter.get    ('/verify-token', auth, verifyToken);
-userRouter.post   ('/add-user',     addUser);
-userRouter.put    ('/update-user',  updateUserById);
-userRouter.delete ('/delete-user',  deleteUserById);
-userRouter.get    ('/get-user',     getUserById);
-userRouter.get    ('/get-users',    getUsers);
+![Image](./images/userRouter.png) 
+
+Schema de Productos
+
+![Image](./images/productSchema.png) 
+
+Schemna de Usuarios
+
+![Image](./images/userSchema.png)
