@@ -87,26 +87,26 @@ A continuación, se presenta una lista de requisitos mínimos y entregables que 
 
 ## 4. Información de apoyo
 
-- [ ] ### Variables de entorno
+- [ ] Variables de entorno
 
 ![Image](./images/env.png) 
 
-- [ ] ### Rutas de Productos
+- [ ] Rutas de Productos
 
 ![Image](./images/productRouter.png) 
 
-- [ ] ### Rutas de Usuarios
+- [ ] Rutas de Usuarios
 
 ![Image](./images/userRouter.png) 
 
-- [ ] ### Schema de Productos
+- [ ] Schema de Productos
 
 ![Image](./images/productSchema.png) 
 
-- [ ] ### Schemna de Usuarios
+- [ ] Schemna de Usuarios
 
 ![Image](./images/userSchema.png)
 
-- [ ] ### Ejecución
+- [ ] Ejecución
 
-![Image](./images/ejecucion M7_API.png)
+![Image](./images/ejecucionM7_API.png)
