@@ -1,6 +1,7 @@
 ![Banner](./images/banner.png)
 
-# PROYECTO 7: Aplicación Fullstack de Comercio Electrónico (API)
+# PROYECTO 7: Aplicación Fullstack de Comercio Electrónico
+# (API)
 
 ## **ÍNDICE**
 
