@@ -90,7 +90,9 @@ A continuación, se presenta una lista de requisitos mínimos y entregables que 
 
 - [ ] Variables de entorno
 
-![Image](./images/env.png) 
+`PORT=3001`
+`MONGODB_URI=mongodb+srv://admin:admin@cluster0.l5r7v.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`
+`SECRET=UCAMP`
 
 - [ ] Rutas de Productos
 
